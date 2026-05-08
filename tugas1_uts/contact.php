@@ -28,7 +28,7 @@
     <div class="card-body">
       <i class="bi bi-github"></i>
       <h5>GitHub</h5>
-      <a href="https://github.com/nuragustina336-png/TUGAS1.git" target="_blank">nuragustina336-png</a>
+      <a href="https://github.com/sahrul2409/TUGAS1_UTS.git" target="_blank">sahrul2409-png</a>
     </div>
   </div>
 
